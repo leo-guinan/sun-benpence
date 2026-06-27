@@ -1,0 +1,382 @@
+{
+  "id": "sun-benpence",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@benpence Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_7521a5253aa6",
+    "display_name": "benpence",
+    "user_id": "@benpence",
+    "description": "Community Archive-derived proof-of-search sun for @benpence.",
+    "document_count": 4654,
+    "word_count": 92189,
+    "active_days": 997,
+    "emissions": [
+      "Tasshinfogleman",
+      "Time",
+      "Good",
+      "Think",
+      "Don",
+      "Game"
+    ],
+    "generated_at": "2026-06-27T15:35:05.873786+00:00",
+    "color": "#f59e0b",
+    "mass": 11.432
+  },
+  "planets": [
+    {
+      "id": "planet_afa80c16ec76",
+      "name": "Tasshinfogleman",
+      "summary": "Archive cluster around tasshinfogleman: 3803 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "tasshinfogleman",
+        "love",
+        "something",
+        "really",
+        "want"
+      ],
+      "artifacts": [
+        {
+          "id": "art_72a43c1e6a09",
+          "title": "Tasshinfogleman receipt from 2024-04-20",
+          "excerpt": "i feel fake and performative when i dance. anybody used to feel this way but not anymore? what changed?",
+          "source_document_id": "1781707750302523889",
+          "timestamp": "2024-04-20T15:33:24+00:00",
+          "url": "https://x.com/benpence/status/1781707750302523889",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tasshinfogleman, love, something, really."
+        },
+        {
+          "id": "art_c99197465657",
+          "title": "Tasshinfogleman receipt from 2024-07-01",
+          "excerpt": "when my friend says he wants to chat with video on https://t.co/aAqCV7wxuA",
+          "source_document_id": "1807887036667363376",
+          "timestamp": "2024-07-01T21:20:33+00:00",
+          "url": "https://x.com/benpence/status/1807887036667363376",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tasshinfogleman, love, something, really."
+        },
+        {
+          "id": "art_e3ba57b47483",
+          "title": "Tasshinfogleman receipt from 2023-07-22",
+          "excerpt": "Did a psilocybin/shrooms (3g) thing yesterday. Still journaling and processing. The most clear change is now I’m sure I won’t be insane forever if I do it again.\n\nSome scattered memories below 💈",
+          "source_document_id": "1682746414076444672",
+          "timestamp": "2023-07-22T13:36:23+00:00",
+          "url": "https://x.com/benpence/status/1682746414076444672",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tasshinfogleman, love, something, really."
+        },
+        {
+          "id": "art_23366e05208c",
+          "title": "Tasshinfogleman receipt from 2023-09-06",
+          "excerpt": "@___frye You spent 40 years doing what?? Google Maps my dude",
+          "source_document_id": "1699487000573727037",
+          "timestamp": "2023-09-06T18:17:30+00:00",
+          "url": "https://x.com/benpence/status/1699487000573727037",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: tasshinfogleman, love, something, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4304c305cf37",
+      "proof_score": 1,
+      "mass": 33.323,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_12639d54cda6",
+      "name": "Time",
+      "summary": "Archive cluster around time: 223 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "first",
+        "long",
+        "think",
+        "every"
+      ],
+      "artifacts": [
+        {
+          "id": "art_56191bcd76bf",
+          "title": "Time receipt from 2024-07-01",
+          "excerpt": "do u enjoy meditating most of the time, or does it feel more like a cost that you're willing to pay for a benefit u might get later? or something else?",
+          "source_document_id": "1807871125143056610",
+          "timestamp": "2024-07-01T20:17:19+00:00",
+          "url": "https://x.com/benpence/status/1807871125143056610",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, first, long, think."
+        },
+        {
+          "id": "art_8605c54c6956",
+          "title": "Time receipt from 2023-09-23",
+          "excerpt": "Once upon a time, a brave group of children decided they wanted to face the things that scared them the most so they could grow into secure, loving adults.\n\nIn a small cabin, they summoned a portal. Each child saw different things... things they were too afraid to even think.",
+          "source_document_id": "1705679906342912506",
+          "timestamp": "2023-09-23T20:25:54+00:00",
+          "url": "https://x.com/benpence/status/1705679906342912506",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, first, long, think."
+        },
+        {
+          "id": "art_20913fa75f79",
+          "title": "Time receipt from 2024-07-09",
+          "excerpt": "now to implement some simple time arithmetic for my app... how hard could it be? https://t.co/SuP0J70HUX",
+          "source_document_id": "1810771433905344592",
+          "timestamp": "2024-07-09T20:22:07+00:00",
+          "url": "https://x.com/benpence/status/1810771433905344592",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, first, long, think."
+        },
+        {
+          "id": "art_da83f3089764",
+          "title": "Time receipt from 2023-07-18",
+          "excerpt": "9. First time cuddling with non-queer people. At first, I worried that they'd be weirded out--the men because I'm queer and the women because I'm a cis man. But it was so good and I hope to do it again.",
+          "source_document_id": "1681324272382345218",
+          "timestamp": "2023-07-18T15:25:18+00:00",
+          "url": "https://x.com/benpence/status/1681324272382345218",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, first, long, think."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b62a0c2377e2",
+      "proof_score": 0.891,
+      "mass": 26.726,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_5380d9ca74ae",
+      "name": "Good",
+      "summary": "Archive cluster around good: 182 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "think",
+        "really",
+        "too",
+        "don"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0a80e71e4f07",
+          "title": "Good receipt from 2022-04-01",
+          "excerpt": "Someone (a.k.a. my good friend @benhhopkins) is working on a 3D version of the game Downwell called \"dropchute\":\nhttps://t.co/wMrdBfluwJ\n\nAs a fan of the original, I think it works surprisingly well, albeit differently, in the 3D space. https://t.co/svDm2v7IwZ",
+          "source_document_id": "1509948520522043397",
+          "timestamp": "2022-04-01T17:39:15+00:00",
+          "url": "https://x.com/benpence/status/1509948520522043397",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, think, really, too."
+        },
+        {
+          "id": "art_bbdc518add22",
+          "title": "Good receipt from 2023-11-22",
+          "excerpt": "A belief I adopted this summer was that if I take a big enough dose of psychedelics, there’s a good chance I’ll get over my fear of death and feelings of being worthless, and the only obstacle is my fear to do so.\n\nIs there any truth to this? Have I gone insane? Will I go insane?",
+          "source_document_id": "1727279238473281632",
+          "timestamp": "2023-11-22T10:53:56+00:00",
+          "url": "https://x.com/benpence/status/1727279238473281632",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, think, really, too."
+        },
+        {
+          "id": "art_e773698fdb33",
+          "title": "Good receipt from 2024-04-20",
+          "excerpt": "@danallison maybe a stupid question but… how do u know if they feel good? 😊",
+          "source_document_id": "1781757170838597695",
+          "timestamp": "2024-04-20T18:49:47+00:00",
+          "url": "https://x.com/benpence/status/1781757170838597695",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, think, really, too."
+        },
+        {
+          "id": "art_c3b48b202d3e",
+          "title": "Good receipt from 2024-05-11",
+          "excerpt": "@algekalipso i’ve asked GPT4 and Claude Opus teach me things like math/graphics/physics concepts and, the truth is, they’re just not very good at it from my experience. i think it’s a problem with how agreeable they make them, so u first have to break out of summary mode to even get started",
+          "source_document_id": "1789206902611616076",
+          "timestamp": "2024-05-11T08:12:22+00:00",
+          "url": "https://x.com/benpence/status/1789206902611616076",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, think, really, too."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c7124fcc25df",
+      "proof_score": 0.871,
+      "mass": 25.619,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_d3fec71a8fcb",
+      "name": "Think",
+      "summary": "Archive cluster around think: 161 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "don",
+        "could",
+        "really",
+        "too"
+      ],
+      "artifacts": [
+        {
+          "id": "art_48587e4680c0",
+          "title": "Think receipt from 2020-08-19",
+          "excerpt": "I wrote a little code to randomly grab 2-3 of my permanent notes in my @RoamResearch Zettelkasten and prompt me to speculate on what they could mean together. \n\nIs a system that prompts you to think still considered thinking? https://t.co/wZQMXGsLjW",
+          "source_document_id": "1295919999643791360",
+          "timestamp": "2020-08-19T03:06:19+00:00",
+          "url": "https://x.com/benpence/status/1295919999643791360",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, could, really."
+        },
+        {
+          "id": "art_8ef62c2aedde",
+          "title": "Think receipt from 2024-03-11",
+          "excerpt": "I think my brain broke when I moved to a place where I’m attracted to like 90%+ of the men",
+          "source_document_id": "1767097063853174992",
+          "timestamp": "2024-03-11T07:55:45+00:00",
+          "url": "https://x.com/benpence/status/1767097063853174992",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, could, really."
+        },
+        {
+          "id": "art_2c50241fc55f",
+          "title": "Think receipt from 2023-07-19",
+          "excerpt": "You think tpot is too nice? Fuck you",
+          "source_document_id": "1681679977542983680",
+          "timestamp": "2023-07-19T14:58:45+00:00",
+          "url": "https://x.com/benpence/status/1681679977542983680",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, could, really."
+        },
+        {
+          "id": "art_54f8dcc9e0b3",
+          "title": "Think receipt from 2023-07-18",
+          "excerpt": "14. Being in water (with friends?) is so joyous\n\nA close friend used to guide me through difficult feelings by asking me to first think of a safe place and mine was a deep, shady hole filled with water.\n\nLet's go sit in the river again 🌊 https://t.co/iszQ9COYIc",
+          "source_document_id": "1681348363260768256",
+          "timestamp": "2023-07-18T17:01:02+00:00",
+          "url": "https://x.com/benpence/status/1681348363260768256",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, don, could, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_08cd714f351e",
+      "proof_score": 0.859,
+      "mass": 25.3,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_c8bb62ec380b",
+      "name": "Don",
+      "summary": "Archive cluster around don: 158 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "really",
+        "too"
+      ],
+      "artifacts": [
+        {
+          "id": "art_4232fd61c18c",
+          "title": "Don receipt from 2023-10-23",
+          "excerpt": "I'm considering moving to Lisbon, Barcelona, or Berlin next year. If you live(d) in one of these cities, I want to hear about your ups and downs!\n\nEsp. if you live(d) there without knowing the local language, as I don't know Portuguese, Spanish, nor German... yet.",
+          "source_document_id": "1716382131390382390",
+          "timestamp": "2023-10-23T09:12:43+00:00",
+          "url": "https://x.com/benpence/status/1716382131390382390",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        },
+        {
+          "id": "art_633a64eeb6e5",
+          "title": "Don receipt from 2024-02-14",
+          "excerpt": "@8chabard WOW YOUR GF AND EX-GF SEEM PRETTY SIMILAR IT’S NICE THEY DON’T MIND HANGING OUT TOGETHER",
+          "source_document_id": "1757739197795037210",
+          "timestamp": "2024-02-14T12:10:56+00:00",
+          "url": "https://x.com/benpence/status/1757739197795037210",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        },
+        {
+          "id": "art_55bd4e7b8c6e",
+          "title": "Don receipt from 2023-08-31",
+          "excerpt": "Just finished an ayahuasca retreat. Integrating a lot… might write more later.\n\nMy biggest takeaway is that my beliefs and stories I indulge in don’t need to match my feelings/body sensations. I can still be optimistic while I’m steeping in overwhelming despair and nausea.",
+          "source_document_id": "1697316339189239837",
+          "timestamp": "2023-08-31T18:32:04+00:00",
+          "url": "https://x.com/benpence/status/1697316339189239837",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        },
+        {
+          "id": "art_7383d98743b5",
+          "title": "Don receipt from 2024-04-02",
+          "excerpt": "adventurer, the toll to cross this bridge is 132 sherkles, and u don’t look like u’ve even got two sherkles to rub together https://t.co/ZZ1gzDFPQq https://t.co/kYJ2pNJVll",
+          "source_document_id": "1775293393012134173",
+          "timestamp": "2024-04-02T22:45:02+00:00",
+          "url": "https://x.com/benpence/status/1775293393012134173",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5f0fce99e12a",
+      "proof_score": 0.857,
+      "mass": 25.182,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_26cd406fb2e9",
+      "name": "Game",
+      "summary": "Archive cluster around game: 127 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "game",
+        "video",
+        "player",
+        "play",
+        "benhhopkins"
+      ],
+      "artifacts": [
+        {
+          "id": "art_78a51c30eb82",
+          "title": "Game receipt from 2023-07-10",
+          "excerpt": "My favorite game to play is “Why’s that thing the way it is?”\n\n1. Pick a thing e.g. building, family, video, experience\n2. Ask why it is the way it is. Wrong answers welcome\n\nI am always playing 100s of variations of this game in my head and with friends in conversation",
+          "source_document_id": "1678337005061586946",
+          "timestamp": "2023-07-10T09:34:58+00:00",
+          "url": "https://x.com/benpence/status/1678337005061586946",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: game, video, player, play."
+        },
+        {
+          "id": "art_d9ffe2b654ac",
+          "title": "Game receipt from 2024-02-05",
+          "excerpt": "I'm working on something new called Love Boat. Instead of making videos, I want everyone to be able to experience the psychedelic visualizations in the web browser, like an interactive game.\n\nLong term vision is to make social VR psychedelic musical experiences. A girl can dream. https://t.co/y0yOgxJueV https://t.co/k7gYrL4ynC",
+          "source_document_id": "1754495721578066220",
+          "timestamp": "2024-02-05T13:22:31+00:00",
+          "url": "https://x.com/benpence/status/1754495721578066220",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: game, video, player, play."
+        },
+        {
+          "id": "art_8435a54850c8",
+          "title": "Game receipt from 2021-12-05",
+          "excerpt": "I'm becoming a game developer. So here's a thread of my practicing random stuff.\n\nIn the future, I hope to look back on these and cringe laugh at novice they are.",
+          "source_document_id": "1467425388683214850",
+          "timestamp": "2021-12-05T09:27:30+00:00",
+          "url": "https://x.com/benpence/status/1467425388683214850",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: game, video, player, play."
+        },
+        {
+          "id": "art_274e88c5d11c",
+          "title": "Game receipt from 2023-06-06",
+          "excerpt": "I finished thinking up game ideas and made a video! The video was really fun 😄 I used to make them regularly years ago.\n\nI tried to finish the video within a few hours, as you can go down so many different rabbit holes polishing video/image media.\n\nhttps://t.co/0xGmUYbKvx https://t.co/4THoJnvNkw https://t.co/T46juyPMT2",
+          "source_document_id": "1665992048997179392",
+          "timestamp": "2023-06-06T08:00:31+00:00",
+          "url": "https://x.com/benpence/status/1665992048997179392",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: game, video, player, play."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5006aad1c002",
+      "proof_score": 0.835,
+      "mass": 24.871,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
